@@ -1,6 +1,7 @@
 a=2345
 b=4325
 c=a+b
+
 print(" addition of two number is:", c)
 
 #using function
