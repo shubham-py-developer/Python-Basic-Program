@@ -8,4 +8,7 @@ print(x*y)  #Multi
 print(x/y)   #division
 print(x//y)  #floordivision
 print(x%y)  #modulus
+
 print(x**y)  #exponentiation
+print(x+1)
+print(y+2)
